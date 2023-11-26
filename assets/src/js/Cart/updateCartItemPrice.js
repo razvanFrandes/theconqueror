@@ -13,8 +13,6 @@ export function updateCartItemPrice() {
       if (totalElement) {
         const total = price * quantity;
         totalElement.textContent = total.toFixed(2) + "$";
-
-        // Update the global state
         updateGlobalState(itemId, quantity, total);
       }
     });
@@ -22,7 +20,7 @@ export function updateCartItemPrice() {
 }
 
 function updateGlobalState(itemId, quantity, total) {
-  // Assume globalState is imported or available in the scope
+
   let cart = globalState.getState().cart;
   cart = cart.map((item) => {
     if (item.id === itemId) {
