@@ -1,4 +1,3 @@
-// ui.js
 export function updateCartDisplay(count) {
   const cartCountElement = document.querySelector(".count_cart");
   cartCountElement.textContent = count;

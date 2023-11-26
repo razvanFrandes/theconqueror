@@ -1,4 +1,3 @@
-// main.js
 import { addToCart, removeFromCart } from "./cart.js";
 import { updateCartDisplay, updateButtonStyle } from "./ui.js";
 import { Cookie } from "../Helpers/Cookies.js";

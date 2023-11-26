@@ -1,6 +1,3 @@
-// cart.js
-import globalState from "./main.js";
-
 export function addToCart(cart, item) {
   const itemIndex = cart.findIndex((cartItem) => cartItem.id === item.id);
   if (itemIndex === -1) {
