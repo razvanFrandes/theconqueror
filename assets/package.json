@@ -33,6 +33,8 @@
     "mini-css-extract-plugin": "^2.7.2",
     "optimize-css-assets-webpack-plugin": "^6.0.1",
     "pdfobject": "^2.2.12",
+    "postcss-advanced-variables": "^3.0.1",
+    "postcss-each": "^1.1.0",
     "postcss-font-magician": "^3.0.0",
     "postcss-for": "^2.1.1",
     "postcss-import": "^15.1.0",

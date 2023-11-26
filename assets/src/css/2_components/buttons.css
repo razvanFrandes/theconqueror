@@ -1,14 +1,13 @@
 .btn {
-  @apply rounded-full  cursor-pointer inline-block text-base font-semibold py-3 px-10 no-underline transition-all duration-200 ease-out;
+  @apply rounded-md cursor-pointer inline-flex justify-center items-center text-base font-bold py-3 px-2 no-underline transition-all duration-200 ease-out;
+  &__small {
+    @apply py-1 px-2 text-sm;
+  }
 }
-
 
 .btn__primary {
-  @apply bg-dark-950 text-white;
-  box-shadow: 0px 0px 0px 0px #000, 0px 0px 0px 0px #000;
-  &:hover {
-    box-shadow: 0px 0px 0px 1px #fff, 5px 5px 0px 0px #000;
+  @apply bg-black text-white hover:bg-black/80;
+  &.is-gold {
+    @apply bg-gold-300 text-black;
   }
- 
 }
-

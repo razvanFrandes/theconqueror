@@ -1,9 +1,9 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
-
+@import "1_base/_index.css";
 @import "2_components/_index.css";
-
+@import "3_vendor/_index.css";
 
 
 /* This will change the main scrollbar on the body */
