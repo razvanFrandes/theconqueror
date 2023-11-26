@@ -12,7 +12,8 @@ function degx($code) {
 };
 
 function get_svg($name, $class = false, $image = false) {
-  $file_path = __DIR__ . '../assets/images/svg/' . $name . '.svg';
+
+  $file_path = __DIR__ . '/../assets/images/svg/' . $name . '.svg';
 
   if (file_exists($file_path)) {
 
@@ -28,4 +29,20 @@ function get_svg($name, $class = false, $image = false) {
     }
     return $file_contents;
   }
+}
+
+function get_home_url() {
+  $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http";
+  $host = $_SERVER['HTTP_HOST'];
+
+  // Construct the base URL
+  $baseUrl = $protocol . "://" . $host;
+
+  return $baseUrl;
+}
+
+function convert_km_to_miles($distanceInKm) {
+  $kmToMilesFactor = 0.621371;
+  $distanceInMiles = $distanceInKm * $kmToMilesFactor;
+  return $distanceInMiles;
 }

@@ -7,9 +7,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/02/Front-Medal-Photobooth-2.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/02/Back-Medal-2.webp"
     ],
-    "distance": "20 Miles / 32 KM",
+    "distance": "32",
     "postcards": "4 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 13
   },
   {
     "id": 2,
@@ -19,9 +21,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/02/Front-Medal-Photobooth-3-1.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/02/Back-Medal-6.webp"
     ],
-    "distance": "21 Miles / 33 KM",
+    "distance": "33",
     "postcards": "3 Virtual Postcards",
-    "streetView": "No StreetView"
+    "streetView": "No StreetView",
+    "discount": null,
+    "price": 10
   },
   {
     "id": 3,
@@ -31,9 +35,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/12/MTA-Front-Medal-min.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/10/MTA_backmedal.webp"
     ],
-    "distance": "26 Miles / 42 KM",
+    "distance": "42",
     "postcards": "4 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 18
   },
   {
     "id": 4,
@@ -43,9 +49,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Front-Medal-Photobooth-42.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Back-Medal-23.webp"
     ],
-    "distance": "26 Miles / 42 KM",
+    "distance": "42",
     "postcards": "4 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 16
   },
   {
     "id": 5,
@@ -55,9 +63,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/11/bkk_front_medal.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/11/bkk_back_medal.webp"
     ],
-    "distance": "30 Miles / 48 KM",
+    "distance": "48",
     "postcards": "6 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 20
   },
   {
     "id": 6,
@@ -67,9 +77,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/01/Front-Medal-Photobooth-5-1.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/01/Back-Medal-12.webp"
     ],
-    "distance": "30 Miles / 48 KM",
+    "distance": "48",
     "postcards": "5 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 16
   },
   {
     "id": 7,
@@ -79,9 +91,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/03/Front-Medal-Photobooth-15.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/03/Back-Medal-17.webp"
     ],
-    "distance": "33 Miles / 53 KM",
+    "distance": "53",
     "postcards": "5 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 11
   },
   {
     "id": 8,
@@ -91,9 +105,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/03/Front-Medal-Photobooth-14.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/03/Back-Medal-16.webp"
     ],
-    "distance": "34 Miles / 55 KM",
+    "distance": "55",
     "postcards": "5 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 10
   },
   {
     "id": 9,
@@ -103,9 +119,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/WDC_front-medal.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/WDC_back-medal.webp"
     ],
-    "distance": "35 Miles / 56 KM",
+    "distance": "56",
     "postcards": "6 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 16
   },
   {
     "id": 10,
@@ -115,9 +133,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/02/Front-Medal-Photobooth-4-1.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/02/Back-Medal-7.webp"
     ],
-    "distance": "35 Miles / 56 KM",
+    "distance": "56",
     "postcards": "7 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 19
   },
   {
     "id": 11,
@@ -127,9 +147,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Front-Medal-Photobooth-49.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Back-Medal-Photobooth-20.webp"
     ],
-    "distance": "38 Miles / 61 KM",
+    "distance": "61",
     "postcards": "6 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 11
   },
   {
     "id": 12,
@@ -139,9 +161,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/04/Front-Medal-Photobooth-21-1.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/04/Back-Medal-20-1.webp"
     ],
-    "distance": "39 Miles / 63 KM",
+    "distance": "63",
     "postcards": "5 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 13
   },
   {
     "id": 13,
@@ -151,9 +175,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/01/Front-Medal-Photobooth2.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/01/Back-Medal2.webp"
     ],
-    "distance": "40 Miles / 64 KM",
+    "distance": "64",
     "postcards": "6 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 17
   },
   {
     "id": 14,
@@ -163,9 +189,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/03/Front-Medal-Photobooth-20.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/03/Back-Medal-Photobooth.webp"
     ],
-    "distance": "40 Miles / 65 KM",
+    "distance": "65",
     "postcards": "9 Virtual Postcards",
-    "streetView": "No StreetView"
+    "streetView": "No StreetView",
+    "discount": null,
+    "price": 11
   },
   {
     "id": 15,
@@ -175,9 +203,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/12/Front-Medal-Photobooth-6.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/12/Back-Medal-8.webp"
     ],
-    "distance": "41 Miles / 66 KM",
+    "distance": "66",
     "postcards": "4 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 17
   },
   {
     "id": 16,
@@ -187,9 +217,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/12/Front-Medal-Photobooth-7.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/12/Back-Medal-9.webp"
     ],
-    "distance": "44 Miles / 70 KM",
+    "distance": "70",
     "postcards": "4 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 17
   },
   {
     "id": 17,
@@ -199,9 +231,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/12/Front-Medal-Photobooth-8.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/12/Back-Medal-10.webp"
     ],
-    "distance": "46 Miles / 74 KM",
+    "distance": "74",
     "postcards": "6 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 14
   },
   {
     "id": 18,
@@ -211,9 +245,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/12/GZ-Front-Medal-min.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/10/GZ_backmedal.webp"
     ],
-    "distance": "46 Miles / 75 KM",
+    "distance": "75",
     "postcards": "5 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 20
   },
   {
     "id": 19,
@@ -223,9 +259,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Front-Medal-Photobooth-44.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Back-Medal-Photobooth-19.webp"
     ],
-    "distance": "47 Miles / 76 KM",
+    "distance": "76",
     "postcards": "5 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 18
   },
   {
     "id": 20,
@@ -235,9 +273,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/LA_front-medal-1.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/LA_back-medal.webp"
     ],
-    "distance": "50 Miles / 80 KM",
+    "distance": "80",
     "postcards": "7 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 10
   },
   {
     "id": 21,
@@ -247,9 +287,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/08/FBC_front-medal.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/08/FBC_back-medal.webp"
     ],
-    "distance": "50 Miles / 80 KM",
+    "distance": "80",
     "postcards": "5 Virtual Postcards",
-    "streetView": "No StreetView"
+    "streetView": "No StreetView",
+    "discount": null,
+    "price": 15
   },
   {
     "id": 22,
@@ -259,9 +301,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Front-Medal-Photobooth-48.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Back-Medal-27.webp"
     ],
-    "distance": "50 Miles / 80 KM",
+    "distance": "80",
     "postcards": "7 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 15
   },
   {
     "id": 23,
@@ -271,9 +315,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Front-Medal-Photobooth-27.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Back-Medal-Photobooth-5.webp"
     ],
-    "distance": "54 Miles / 87 KM",
+    "distance": "87",
     "postcards": "4 Virtual Postcards",
-    "streetView": "No StreetView"
+    "streetView": "No StreetView",
+    "discount": null,
+    "price": 10
   },
   {
     "id": 24,
@@ -283,9 +329,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Front-Medal-Photobooth-25.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Back-Medal-Photobooth-3.webp"
     ],
-    "distance": "56 Miles / 91 KM",
+    "distance": "91",
     "postcards": "7 Virtual Postcards",
-    "streetView": "No StreetView"
+    "streetView": "No StreetView",
+    "discount": null,
+    "price": 12
   },
   {
     "id": 25,
@@ -295,9 +343,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Front-Medal-Photobooth-28.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Back-Medal-Photobooth-6.webp"
     ],
-    "distance": "60 Miles / 97 KM",
+    "distance": "97",
     "postcards": "5 Virtual Postcards",
-    "streetView": "No StreetView"
+    "streetView": "No StreetView",
+    "discount": null,
+    "price": 16
   },
   {
     "id": 26,
@@ -307,9 +357,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/12/RTH-Front-Medal-min.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/10/rth_backmedal.webp"
     ],
-    "distance": "64 Miles / 104 KM",
+    "distance": "104",
     "postcards": "6 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 12
   },
   {
     "id": 27,
@@ -319,9 +371,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Front-Medal-Photobooth-36.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Back-Medal-Photobooth-13.webp"
     ],
-    "distance": "70 Miles / 113 KM",
+    "distance": "113",
     "postcards": "5 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 12
   },
   {
     "id": 28,
@@ -331,9 +385,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/NYC_front-medal.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/NYC_back-medal.webp"
     ],
-    "distance": "71 Miles / 114 KM",
+    "distance": "114",
     "postcards": "8 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 17
   },
   {
     "id": 29,
@@ -343,9 +399,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/03/Front-Medal-Photobooth-13.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/03/Back-Medal-15.webp"
     ],
-    "distance": "75 Miles / 121 KM",
+    "distance": "121",
     "postcards": "6 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 18
   },
   {
     "id": 30,
@@ -355,9 +413,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/12/Front-Medal-Photobooth-5.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/12/Back-Medal-7.webp"
     ],
-    "distance": "75 Miles / 121 KM",
+    "distance": "121",
     "postcards": "6 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 15
   },
   {
     "id": 31,
@@ -367,9 +427,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/01/ROH-Medal-Front-1.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/01/LOTR-Back-Medal-Photobooth.webp"
     ],
-    "distance": "80mi (128km) or450mi (724km)",
+    "distance": "128",
     "postcards": "6 Virtual Postcards",
-    "streetView": "No Streetview"
+    "streetView": "No Streetview",
+    "discount": null,
+    "price": 16
   },
   {
     "id": 32,
@@ -378,9 +440,11 @@
     "images": [
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/01/Front-Medal-Photobooth-10.webp"
     ],
-    "distance": "90 Miles / 145 KM",
+    "distance": "145",
     "postcards": "6 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 18
   },
   {
     "id": 33,
@@ -390,9 +454,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Front-Medal-Photobooth-34.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Back-Medal-Photobooth-11.webp"
     ],
-    "distance": "95mi (153km) - 1049mi (1688km)",
+    "distance": "153",
     "postcards": "6 / 21 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 18
   },
   {
     "id": 34,
@@ -402,9 +468,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Front-Medal-Photobooth-53.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Back-Medal-Photobooth-22.webp"
     ],
-    "distance": "96 Miles / 154 KM",
+    "distance": "154",
     "postcards": "6 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 15
   },
   {
     "id": 35,
@@ -414,9 +482,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/02/Front-Medal-Photobooth-1.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/02/Back-Medal-1.webp"
     ],
-    "distance": "97 Miles / 156 KM",
+    "distance": "156",
     "postcards": "7 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 14
   },
   {
     "id": 36,
@@ -426,9 +496,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/10/MRT_front-medal-2.png",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/10/MRT_back-medal.png"
     ],
-    "distance": "98 Miles / 158 KM",
+    "distance": "158",
     "postcards": "9 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 20
   },
   {
     "id": 37,
@@ -438,9 +510,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Front-Medal-Photobooth-35.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Back-Medal-Photobooth-12.webp"
     ],
-    "distance": "100mi (160km) - 1317mi (2119km)",
+    "distance": "160",
     "postcards": "6 / 20 Virtual Postcards",
-    "streetView": "No StreetView"
+    "streetView": "No StreetView",
+    "discount": null,
+    "price": 17
   },
   {
     "id": 38,
@@ -450,9 +524,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/07/JUR_front-medal.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/07/JUR_back-medal.webp"
     ],
-    "distance": "100 Miles / 161 KM",
+    "distance": "161",
     "postcards": "8 Virtual Postcards",
-    "streetView": "No StreetView"
+    "streetView": "No StreetView",
+    "discount": null,
+    "price": 10
   },
   {
     "id": 39,
@@ -462,9 +538,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Front-Medal-Photobooth-52.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Back-Medal-Photobooth-21.webp"
     ],
-    "distance": "100mi (161km) - 1974mi (3177km)",
+    "distance": "161",
     "postcards": "6 / 36 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 15
   },
   {
     "id": 40,
@@ -474,9 +552,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Front-Medal-Photobooth-45.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Back-Medal-24.webp"
     ],
-    "distance": "100 Miles / 161 KM",
+    "distance": "161",
     "postcards": "6 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 19
   },
   {
     "id": 41,
@@ -486,9 +566,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Front-Medal-Photobooth-43.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Back-Medal-Photobooth-18.webp"
     ],
-    "distance": "100mi (161km) - 1000mi (1609km)",
+    "distance": "161",
     "postcards": "6 / 24 Virtual Postcards",
-    "streetView": "No StreetView"
+    "streetView": "No StreetView",
+    "discount": null,
+    "price": 16
   },
   {
     "id": 42,
@@ -498,9 +580,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/02/Front-Medal-Photobooth-3.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/02/Back-Medal-3.webp"
     ],
-    "distance": "124 Miles / 200 KM",
+    "distance": "200",
     "postcards": "6 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 18
   },
   {
     "id": 43,
@@ -510,9 +594,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/02/Front-Medal-Photobooth-2-1.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/02/Back-Medal-3-1.webp"
     ],
-    "distance": "125 Miles / 201 KM",
+    "distance": "201",
     "postcards": "6 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 10
   },
   {
     "id": 44,
@@ -522,9 +608,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Front-Medal-Photobooth-26.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Back-Medal-Photobooth-4.webp"
     ],
-    "distance": "130 Miles / 209 KM",
+    "distance": "209",
     "postcards": "9 Virtual Postcards",
-    "streetView": "No StreetView"
+    "streetView": "No StreetView",
+    "discount": null,
+    "price": 10
   },
   {
     "id": 45,
@@ -534,9 +622,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/01/SHR-Front-Medal-min.png",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/10/LOTR-Back-Medal-Photobooth1.webp"
     ],
-    "distance": "145mi (233km)",
+    "distance": "233",
     "postcards": "6 Virtual Postcards",
-    "streetView": "Custom Middle-earth Map"
+    "streetView": "Custom Middle-earth Map",
+    "discount": null,
+    "price": 13
   },
   {
     "id": 46,
@@ -546,9 +636,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Front-Medal-Photobooth-41.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Back-Medal-22.webp"
     ],
-    "distance": "149 Miles / 240 KM",
+    "distance": "240",
     "postcards": "7 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 18
   },
   {
     "id": 47,
@@ -558,9 +650,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/01/Front-Medal-Photobooth-14.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/01/Back-Medal-14.webp"
     ],
-    "distance": "161mi (259km) - 2183mi (3513km)",
+    "distance": "259",
     "postcards": "10 / 29 Virtual Postcards",
-    "streetView": "No StreetView"
+    "streetView": "No StreetView",
+    "discount": null,
+    "price": 16
   },
   {
     "id": 48,
@@ -570,9 +664,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/07/Front-Medal-Photobooth-38.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/07/Back-Medal-Photobooth-16.webp"
     ],
-    "distance": "100 Miles / 161 KM",
+    "distance": "161",
     "postcards": "6 Virtual Postcards",
-    "streetView": "No StreetView"
+    "streetView": "No StreetView",
+    "discount": null,
+    "price": 13
   },
   {
     "id": 49,
@@ -582,9 +678,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Front-Medal-Photobooth-30.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Back-Medal-Photobooth-8.webp"
     ],
-    "distance": "180 Miles / 290 KM",
+    "distance": "290",
     "postcards": "9 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 13
   },
   {
     "id": 50,
@@ -594,9 +692,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/01/Front-Medal-Photobooth-6-1.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/01/Back-Medal-8-1.webp"
     ],
-    "distance": "185 Miles / 298 KM",
+    "distance": "298",
     "postcards": "6 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 13
   },
   {
     "id": 51,
@@ -606,9 +706,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/02/Front-Medal-Photobooth-5.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/02/Back-Medal-5.webp"
     ],
-    "distance": "231 Miles / 372 KM",
+    "distance": "372",
     "postcards": "7 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 14
   },
   {
     "id": 52,
@@ -618,9 +720,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Front-Medal-Photobooth-29.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Back-Medal-Photobooth-7.webp"
     ],
-    "distance": "268 Miles / 431 KM",
+    "distance": "431",
     "postcards": "29 Virtual Postcards",
-    "streetView": "No StreetView"
+    "streetView": "No StreetView",
+    "discount": null,
+    "price": 16
   },
   {
     "id": 53,
@@ -629,9 +733,11 @@
     "images": [
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/10/GC-Front-Medal-min.png"
     ],
-    "distance": "280 Miles / 451 KM",
+    "distance": "451",
     "postcards": "18 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 17
   },
   {
     "id": 54,
@@ -641,9 +747,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Front-Medal-Photobooth-39.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Back-Medal-Photobooth-17.webp"
     ],
-    "distance": "312 Miles / 503 KM",
+    "distance": "503",
     "postcards": "10 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 11
   },
   {
     "id": 55,
@@ -653,9 +761,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Front-Medal-Photobooth-31.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Back-Medal-Photobooth-9.webp"
     ],
-    "distance": "343 Miles / 552 KM",
+    "distance": "552",
     "postcards": "20 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 16
   },
   {
     "id": 56,
@@ -665,9 +775,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Front-Medal-Photobooth-33.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Back-Medal-Photobooth-10.webp"
     ],
-    "distance": "476 Miles / 766 KM",
+    "distance": "766",
     "postcards": "16 Virtual Postcards",
-    "streetView": "No StreetView"
+    "streetView": "No StreetView",
+    "discount": null,
+    "price": 12
   },
   {
     "id": 57,
@@ -677,9 +789,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/12/CS-Front-Medal-min.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/10/cs_backmedal.webp"
     ],
-    "distance": "480 Miles / 772 KM",
+    "distance": "772",
     "postcards": "14 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 18
   },
   {
     "id": 58,
@@ -689,9 +803,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/12/NC-Front-Medal-min.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/10/nc500_backmedal-.webp"
     ],
-    "distance": "500 Miles / 806 KM",
+    "distance": "806",
     "postcards": "14 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 10
   },
   {
     "id": 59,
@@ -701,9 +817,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/02/Front-Medal-Photobooth-1-1.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/02/Back-Medal-2-1.webp"
     ],
-    "distance": "828 Miles / 1,332 KM",
+    "distance": "332",
     "postcards": "13 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 12
   },
   {
     "id": 60,
@@ -713,9 +831,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/01/Front-Medal-Photobooth-12.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/01/Front-Medal-Photobooth-12.webp"
     ],
-    "distance": "1,084 Miles / 1,743 KM",
+    "distance": "743",
     "postcards": "26 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 10
   },
   {
     "id": 61,
@@ -725,9 +845,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Front-Medal-Photobooth-24.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/Back-Medal-Photobooth-2.webp"
     ],
-    "distance": "1,968 Miles / 3,167 KM",
+    "distance": "167",
     "postcards": "No Postcards",
-    "streetView": "No StreetView"
+    "streetView": "No StreetView",
+    "discount": null,
+    "price": 16
   },
   {
     "id": 62,
@@ -737,9 +859,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Front-Medal-Photobooth-40.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Back-Medal-21.webp"
     ],
-    "distance": "2,280 Miles / 3,669 KM",
+    "distance": "669",
     "postcards": "24 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 13
   },
   {
     "id": 63,
@@ -749,9 +873,11 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Front-Medal-Photobooth-46.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Back-Medal-25.webp"
     ],
-    "distance": "2,485 Miles / 4,000 KM",
+    "distance": "000",
     "postcards": "30 Virtual Postcards",
-    "streetView": "No StreetView"
+    "streetView": "No StreetView",
+    "discount": null,
+    "price": 14
   },
   {
     "id": 64,
@@ -761,107 +887,127 @@
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Front-Medal-Photobooth-50.webp",
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/09/Back-Medal-28.webp"
     ],
-    "distance": "Set your own distance",
+    "distance": "0",
     "postcards": "Monthly progress reports",
-    "streetView": "Plant up to 12 trees"
+    "streetView": "Plant up to 12 trees",
+    "discount": null,
+    "price": 20
   },
   {
     "id": 65,
-    "backgroundImage": "Image not found",
+    "backgroundImage": null,
     "title": "Starter Pack",
     "images": [
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2021/06/Starter-Front-Medal.webp"
     ],
-    "distance": "137 Miles / 220 KM",
+    "distance": "220",
     "postcards": "13 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": "20",
+    "price": 14
   },
   {
     "id": 66,
-    "backgroundImage": "Image not found",
+    "backgroundImage": null,
     "title": "Cities of Europe",
     "images": [
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/03/LPR-Bundle.webp"
     ],
-    "distance": "142 Miles / 229 KM",
+    "distance": "229",
     "postcards": "16 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": null,
+    "price": 12
   },
   {
     "id": 67,
-    "backgroundImage": "Image not found",
+    "backgroundImage": null,
     "title": "Mount Pack",
     "images": [
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2021/06/Mount-Front-Medal.webp"
     ],
-    "distance": "146 Miles / 235 KM",
+    "distance": "235",
     "postcards": "17 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": "20",
+    "price": 18
   },
   {
     "id": 68,
-    "backgroundImage": "Image not found",
+    "backgroundImage": null,
     "title": "Cities of Europe",
     "images": [
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/03/LPR-Bundle.webp"
     ],
-    "distance": "142 Miles / 229 KM",
+    "distance": "229",
     "postcards": "16 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": "20",
+    "price": 15
   },
   {
     "id": 69,
-    "backgroundImage": "Image not found",
+    "backgroundImage": null,
     "title": "Cities of US",
     "images": [
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/06/NLW_front-medal.webp"
     ],
-    "distance": "156 Miles / 250 KM",
+    "distance": "250",
     "postcards": "18 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": "20",
+    "price": 13
   },
   {
     "id": 70,
-    "backgroundImage": "Image not found",
+    "backgroundImage": null,
     "title": "US National Parks",
     "images": [
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2023/02/USPN-Bundle.webp"
     ],
-    "distance": "249 Miles / 405 KM",
+    "distance": "405",
     "postcards": "21 Virtual Postcards",
-    "streetView": "Has StreetView"
+    "streetView": "Has StreetView",
+    "discount": "20",
+    "price": 18
   },
   {
     "id": 71,
-    "backgroundImage": "Image not found",
+    "backgroundImage": null,
     "title": "Any 5 Challenges",
     "images": [
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/12/Any-5-Front-Medal-1.webp"
     ],
-    "distance": "Free Shipping",
+    "distance": "0",
     "postcards": "Receive Postcards",
-    "streetView": "Any Conqueror Challenge"
+    "streetView": "Any Conqueror Challenge",
+    "discount": "15",
+    "price": 17
   },
   {
     "id": 72,
-    "backgroundImage": "Image not found",
+    "backgroundImage": null,
     "title": "Any 10 Challenges",
     "images": [
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/12/Any-10-Front-Medal-1.webp"
     ],
-    "distance": "Free Shipping",
+    "distance": "0",
     "postcards": "Receive Postcards",
-    "streetView": "Any Conqueror Challenge"
+    "streetView": "Any Conqueror Challenge",
+    "discount": "20",
+    "price": 18
   },
   {
     "id": 73,
-    "backgroundImage": "Image not found",
+    "backgroundImage": null,
     "title": "Any 15 Challenges",
     "images": [
       "https://www.theconqueror.events/wordpress/wp-content/uploads/2022/12/Any-15-Front-Medal-1.webp"
     ],
-    "distance": "Free Shipping",
+    "distance": "0",
     "postcards": "Receive Postcards",
-    "streetView": "Any Conqueror Challenge"
+    "streetView": "Any Conqueror Challenge",
+    "discount": "25",
+    "price": 12
   }
 ]
