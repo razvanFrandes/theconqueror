@@ -1,0 +1,11 @@
+$font-weights: (100, 200, 300, 400, 500, 600, 700, 800, 900);
+@each $weight in $font-weights {
+  @font-face {
+    font-display: swap;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: $weight; // Regular is usually 400
+    $font-file-name: 'inter-v13-latin-#{$weight}';
+    src: url("../fonts/#{$font-file-name}.woff2") format("woff2");
+  }
+}

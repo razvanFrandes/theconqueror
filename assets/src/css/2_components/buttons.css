@@ -1,0 +1,14 @@
+.btn {
+  @apply rounded-full  cursor-pointer inline-block text-base font-semibold py-3 px-10 no-underline transition-all duration-200 ease-out;
+}
+
+
+.btn__primary {
+  @apply bg-dark-950 text-white;
+  box-shadow: 0px 0px 0px 0px #000, 0px 0px 0px 0px #000;
+  &:hover {
+    box-shadow: 0px 0px 0px 1px #fff, 5px 5px 0px 0px #000;
+  }
+ 
+}
+
