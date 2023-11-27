@@ -20,8 +20,11 @@ require_once './layout/header.php'; ?>
   </ul>
 
   <h2 class="text-xl font-semibold mb-2">2. Loading Data</h2>
-  <p class="mb-4">
+  <p class="mb-2">
     A scraper was created to pull all necessary data from the original site <a href="https://www.theconqueror.events/" class="text-blue-500">www.theconqueror.events</a>. This included fetching challenge links and extracting images from each individual challenge.
+  </p>
+  <p class="mb-4">
+    Based on the scraped data, I created a minimal database, which is located in root directory with the name database.json
   </p>
 
   <h2 class="text-xl font-semibold mb-2">3. CSS</h2>
