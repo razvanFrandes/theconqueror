@@ -2,7 +2,6 @@
 require_once './config.php';
 require_once './layout/header.php'; ?>
 
-
 <div class="container text-center">
   <h1 class="text-5xl font-bold">Creative Proccess</h1>
 </div>
