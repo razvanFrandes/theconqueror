@@ -28,7 +28,7 @@
         <div class="flex gap-7">
           <div id="main_nav" class="mastheader__nav flex items-center gap-7">
             <div>
-              <a href="<?php echo get_home_url(); ?>/readme.php" class="text-gold-300">Readme</a>
+              <a href="<?php echo get_home_url(); ?>/read.php" class="text-gold-300">Readme</a>
             </div>
             <div>
               <a href="#">LOTR</a>
